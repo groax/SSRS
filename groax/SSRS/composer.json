@@ -1,0 +1,29 @@
+{
+    "name": "groax/ssrs",
+    "description": "Get Reports with SSRS in Laravel",
+    "keywords": [
+        "laravel",
+        "SSRS",
+        "Reports"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rick Holtman",
+            "email": "rick.holtman@groax.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Groax\\Ssrs\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "chartblocks/php-ssrs": "~1.0.14"
+    },
+    "require-dev": {
+        "laravel/framework": "5.5.x"
+    }
+}
