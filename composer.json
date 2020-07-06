@@ -18,13 +18,6 @@
             "Groax\\Ssrs\\": "src/"
         }
     },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "Groax\\Ssrs\\SsrsServiceProvider"
-      ]
-    }
-  },
     "require": {
         "php": ">=7.0",
         "chartblocks/php-ssrs": "~1.0.14"
