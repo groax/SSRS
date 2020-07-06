@@ -18,7 +18,6 @@
             "Groax\\Ssrs\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
         "chartblocks/php-ssrs": "~1.0.14"
